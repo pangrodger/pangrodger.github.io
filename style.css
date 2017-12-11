@@ -1,7 +1,5 @@
-head {
-	font-family: 'Cousine', monospace;
-}
-
 body {
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
 }
